@@ -1,3 +1,6 @@
 [submodule "etherpad-lite"]
 	path = etherpad-lite
 	url = https://github.com/emirotin/etherpad-lite.git
+[submodule "PyEtherpadLite"]
+	path = PyEtherpadLite
+	url = git@github.com:emirotin/PyEtherpadLite.git
