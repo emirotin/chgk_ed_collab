@@ -1,2 +1,6 @@
 Django
 django_compressor
+South
+djaml
+hamlpy
+
