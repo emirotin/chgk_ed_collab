@@ -141,3 +141,5 @@ LOGGING = {
         },
     }
 }
+
+EP_API_KEY = ''

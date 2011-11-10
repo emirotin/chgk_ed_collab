@@ -1,6 +1,6 @@
 [submodule "etherpad-lite"]
-	path = etherpad-lite
+	path = chgk_mirotin_net/collab_editor/etherpad-lite
 	url = https://github.com/emirotin/etherpad-lite.git
 [submodule "PyEtherpadLite"]
-	path = PyEtherpadLite
+	path = chgk_mirotin_net/collab_editor/PyEtherpadLite
 	url = git@github.com:emirotin/PyEtherpadLite.git
